@@ -41,12 +41,14 @@
 							'images/sad-klay.jpeg': 'center',
 							'images/klay-out.jpeg': 'center',
 							'images/street-clothes.jpeg': 'center',
-							'images/suited-up-klay.jpeg': 'center'
+							'images/suited-up-klay.jpeg': 'center',
+							'images/klay-hyped.jpeg': 'center',
+							'images/klay-warmup.jpeg': 'center'
 							
 						},
 
 					// Delay.
-						delay: 60000
+						delay: 10000
 
 				};
 
