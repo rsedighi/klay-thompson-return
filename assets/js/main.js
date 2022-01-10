@@ -37,10 +37,10 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							
-							'images/out-klay.jpeg': 'center',
-							'images/sad-klay.jpeg': 'center',
-							'images/klay-out.jpeg': 'center',
-							'images/street-clothes.jpeg': 'center',
+							'images/klay-return0.jpeg': 'center',
+							'images/klay-return': 'center',
+							'images/klay-return1': 'center',
+							'images/klay-return2.jpeg': 'center',
 							'images/suited-up-klay.jpeg': 'center',
 							'images/klay-hyped.jpeg': 'center',
 							'images/klay-warmup.jpeg': 'center'
